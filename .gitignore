@@ -1,12 +1,10 @@
-# Ignore system files
+# Global ignore rules for ISYE / CS coursework
+
+# Ignore Python source code files in any subfolder
+**/*.py
+
+# Ignore data folders in any assignment
+**/data/
+
+# (Optional) Ignore Mac system files
 .DS_Store
-
-# HW1: exclude code and data
-HW1/Q3_py_code.py
-HW1/Q4_py_code.py
-HW1/data/
-
-# HW2: exclude code and data
-HW2/*.py
-HW2/*.ipynb
-HW2/data/
