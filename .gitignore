@@ -1,8 +1,12 @@
+# Ignore system files
+.DS_Store
+
+# HW1: exclude code and data
 HW1/Q3_py_code.py
 HW1/Q4_py_code.py
 HW1/data/
+
+# HW2: exclude code and data
 HW2/*.py
+HW2/*.ipynb
 HW2/data/
-.DS_Store
-HW2/*.py
-HW2/.DS_Store
