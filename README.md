@@ -53,6 +53,11 @@ This repository contains the final reports for all homework assignments and fina
 We tackled the healthcare challenge of predicting whether patients with metastatic triple-negative breast cancer (TNBC) would receive a diagnosis within 90 days of their initial screening. Our analysis integrates patient demographics, socioeconomic indicators, and environmental factors to model the likelihood of timely diagnosis.
 [Official Competition Link](https://www.kaggle.com/competitions/widsdatathon2024-challenge1)
 
+> The shapefile dataset (`tl_2020_us_zcta520.shp`, ~781MB) used in this project was too large to upload to GitHub.
+To access the data, visit the official U.S. Census Bureau page:  
+[https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html)
+
+
 ---
 
 ## Author
