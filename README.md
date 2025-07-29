@@ -2,20 +2,6 @@
 This repository contains the final reports for all homework assignments and final group project completed in **CSE 6740 / ISyE 6740: Computational Data Analy**, as part of the Georgia Tech Computer Science program. Only the written reports are public; source code and datasets remain private.
 
 ---
-## Homework Reports
-
-| Homework | Report |
-|----------|--------|
-| HW1      | [zliu943_HW1_report.pdf](HW1/zliu943_HW1_report.pdf) |
-| HW2      | [zliu943_HW2_report.pdf](HW2/zliu943_HW2_report.pdf) |
-| HW3      | [zliu943_HW3_report.pdf](HW3/zliu943_HW3_report.pdf) |
-| HW4      | [zliu943_HW4_report.pdf](HW4/zliu943_HW4_report.pdf) |
-| HW5      | [zliu943_HW5_report.pdf](HW5/zliu943_HW5_report.pdf) |
-| HW6      | [zliu943_HW6_report.pdf](HW6/zliu943_HW6_report.pdf) |
-| Final Project | [Group_Project_Report.pdf](Group%20Project/Group_Project_Report.pdf) |
-
-
----
 ## Homework Highlights
 
 ### HW 1  · Image Compression with K‑means
