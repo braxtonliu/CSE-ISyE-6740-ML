@@ -1,5 +1,3 @@
-# Global ignore rules for ISYE / CS coursework
-
 # Ignore Python source code files in any subfolder
 **/*.py
 
