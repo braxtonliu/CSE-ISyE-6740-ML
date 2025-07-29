@@ -4,3 +4,5 @@ HW1/data/
 HW2/*.py
 HW2/data/
 .DS_Store
+HW2/*.py
+HW2/.DS_Store
